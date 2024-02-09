@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+	font-family: Segoe UI, Frutiger, Frutiger Linotype, Dejavu Sans,
+		Helvetica Neue, Arial, sans-serif;
+}
