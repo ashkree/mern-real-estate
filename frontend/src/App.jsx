@@ -28,7 +28,7 @@ export default function App() {
 					element={<SignIn />}
 				/>
 				<Route
-					path="/signout"
+					path="/signup"
 					element={<SignUp />}
 				/>
 			</Routes>

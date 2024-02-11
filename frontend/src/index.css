@@ -6,3 +6,7 @@
 	font-family: Segoe UI, Frutiger, Frutiger Linotype, Dejavu Sans,
 		Helvetica Neue, Arial, sans-serif;
 }
+
+body {
+	background-color: rgb(241, 245, 241);
+}
